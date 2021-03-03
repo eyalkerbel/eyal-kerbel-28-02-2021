@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/eyal-kerbel-28-02-2021/static/css/main.97a07083.chunk.css",
-    "main.js": "/eyal-kerbel-28-02-2021/static/js/main.f4a5d38c.chunk.js",
-    "main.js.map": "/eyal-kerbel-28-02-2021/static/js/main.f4a5d38c.chunk.js.map",
+    "main.js": "/eyal-kerbel-28-02-2021/static/js/main.1deabed7.chunk.js",
+    "main.js.map": "/eyal-kerbel-28-02-2021/static/js/main.1deabed7.chunk.js.map",
     "runtime-main.js": "/eyal-kerbel-28-02-2021/static/js/runtime-main.adb64a70.js",
     "runtime-main.js.map": "/eyal-kerbel-28-02-2021/static/js/runtime-main.adb64a70.js.map",
     "static/css/2.150d169a.chunk.css": "/eyal-kerbel-28-02-2021/static/css/2.150d169a.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.015f6eb7.chunk.js",
     "static/css/main.97a07083.chunk.css",
-    "static/js/main.f4a5d38c.chunk.js"
+    "static/js/main.1deabed7.chunk.js"
   ]
 }
