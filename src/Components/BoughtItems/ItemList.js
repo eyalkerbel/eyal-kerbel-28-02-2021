@@ -15,9 +15,6 @@ export default function ItemList() {
 
     useEffect(() => {
         setItems(itemsOriginal);
-        // fetch("https://api.exchangeratesapi.io/latest?base=USD&symbols=USD,GBP,ILS") // data source is an object, not an array.
-        //     .then(res => res.json())
-        //     .then(result => setRates(result.rates));
     });
 
 
@@ -41,19 +38,7 @@ export default function ItemList() {
             sorting(1);
         }
         setOrder(temp);
-        // props.changeOrder(temp);
     }
-    const getFormatt = (date) => {
-        var todayTime = new Date(date);
-        var month = (todayTime.getMonth() + 1) % 13;
-        var day = todayTime.getDate();
-        var year = todayTime.getFullYear();
-        return day + "/" + month + "/" + year;
-    }
-
-
-
-
 
 
     return (

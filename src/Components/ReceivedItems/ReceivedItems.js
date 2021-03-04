@@ -10,8 +10,7 @@ import Box from '@material-ui/core/Box';
 import ItemList from "./ItemList";
 import StoreDetails from "./StoreDetails";
 import { useHistory } from 'react-router-dom';
-
-import { Form, Button, Container, Col, Row } from "react-bootstrap";
+import { Button, Container, Col, Row } from "react-bootstrap";
 
 function TabPanel(props) {
     const { children, value, index, ...other } = props;

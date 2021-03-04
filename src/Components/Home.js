@@ -8,7 +8,7 @@ export default function Home() {
     const history = useHistory();
     const dispatch = useDispatch();
     const [itemName, setItemName] = React.useState("");
-    const [onlineStore, setOnlineStore] = React.useState(0);
+    const [onlineStore, setOnlineStore] = React.useState("amazon");
     const [price, setPrice] = React.useState(0);
     const [date, setDate] = React.useState(null);
 

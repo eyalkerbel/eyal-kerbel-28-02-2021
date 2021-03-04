@@ -5,7 +5,6 @@ import { receivedItem } from "../../Actions/itemsList";
 import { useDispatch } from "react-redux";
 import CurrentRateContext from "../../Contexts/CurrentRateContext";
 import RatesContext from "../../Contexts/RatesContext";
-import context from "react-bootstrap/esm/AccordionContext";
 export default function ItemRow(props) {
     const dispatch = useDispatch();
     const rates = useContext(RatesContext);
