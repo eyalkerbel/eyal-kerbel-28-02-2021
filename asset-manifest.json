@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/eyal-kerbel-28-02-2021/static/css/main.97a07083.chunk.css",
-    "main.js": "/eyal-kerbel-28-02-2021/static/js/main.f7a967d2.chunk.js",
-    "main.js.map": "/eyal-kerbel-28-02-2021/static/js/main.f7a967d2.chunk.js.map",
-    "runtime-main.js": "/eyal-kerbel-28-02-2021/static/js/runtime-main.adb64a70.js",
-    "runtime-main.js.map": "/eyal-kerbel-28-02-2021/static/js/runtime-main.adb64a70.js.map",
+    "main.js": "/eyal-kerbel-28-02-2021/static/js/main.c08db200.chunk.js",
+    "main.js.map": "/eyal-kerbel-28-02-2021/static/js/main.c08db200.chunk.js.map",
+    "runtime-main.js": "/eyal-kerbel-28-02-2021/static/js/runtime-main.7023fb99.js",
+    "runtime-main.js.map": "/eyal-kerbel-28-02-2021/static/js/runtime-main.7023fb99.js.map",
     "static/css/2.150d169a.chunk.css": "/eyal-kerbel-28-02-2021/static/css/2.150d169a.chunk.css",
-    "static/js/2.015f6eb7.chunk.js": "/eyal-kerbel-28-02-2021/static/js/2.015f6eb7.chunk.js",
-    "static/js/2.015f6eb7.chunk.js.map": "/eyal-kerbel-28-02-2021/static/js/2.015f6eb7.chunk.js.map",
-    "static/js/3.f87c2568.chunk.js": "/eyal-kerbel-28-02-2021/static/js/3.f87c2568.chunk.js",
-    "static/js/3.f87c2568.chunk.js.map": "/eyal-kerbel-28-02-2021/static/js/3.f87c2568.chunk.js.map",
+    "static/js/2.f55ff152.chunk.js": "/eyal-kerbel-28-02-2021/static/js/2.f55ff152.chunk.js",
+    "static/js/2.f55ff152.chunk.js.map": "/eyal-kerbel-28-02-2021/static/js/2.f55ff152.chunk.js.map",
+    "static/js/3.7fecc35a.chunk.js": "/eyal-kerbel-28-02-2021/static/js/3.7fecc35a.chunk.js",
+    "static/js/3.7fecc35a.chunk.js.map": "/eyal-kerbel-28-02-2021/static/js/3.7fecc35a.chunk.js.map",
     "index.html": "/eyal-kerbel-28-02-2021/index.html",
     "static/css/2.150d169a.chunk.css.map": "/eyal-kerbel-28-02-2021/static/css/2.150d169a.chunk.css.map",
     "static/css/main.97a07083.chunk.css.map": "/eyal-kerbel-28-02-2021/static/css/main.97a07083.chunk.css.map",
-    "static/js/2.015f6eb7.chunk.js.LICENSE.txt": "/eyal-kerbel-28-02-2021/static/js/2.015f6eb7.chunk.js.LICENSE.txt",
+    "static/js/2.f55ff152.chunk.js.LICENSE.txt": "/eyal-kerbel-28-02-2021/static/js/2.f55ff152.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/eyal-kerbel-28-02-2021/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.adb64a70.js",
+    "static/js/runtime-main.7023fb99.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.015f6eb7.chunk.js",
+    "static/js/2.f55ff152.chunk.js",
     "static/css/main.97a07083.chunk.css",
-    "static/js/main.f7a967d2.chunk.js"
+    "static/js/main.c08db200.chunk.js"
   ]
 }
