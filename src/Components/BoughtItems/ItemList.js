@@ -2,10 +2,6 @@ import React, { useState, useEffect, useContext } from "react";
 import { Table } from "react-bootstrap";
 import { useSelector } from "react-redux";
 import ItemRow from "./ItemRow";
-import { Button } from "react-bootstrap";
-import { useDispatch } from "react-redux";
-import axios from "axios";
-import useInterval from '@use-it/interval';
 import CurrentRateContext from "../../Contexts/CurrentRateContext";
 export default function ItemList() {
     const itemsOriginal = useSelector(state => state.items.listItems);
@@ -15,7 +11,7 @@ export default function ItemList() {
 
     useEffect(() => {
         setItems(itemsOriginal);
-    });
+    }, [itemsOriginal]); // when store change
 
 
     const sorting = (num) => {

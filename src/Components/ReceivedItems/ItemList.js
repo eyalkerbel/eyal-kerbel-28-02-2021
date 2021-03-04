@@ -11,12 +11,12 @@ export default function ItemList() {
 
     useEffect(() => {
         setItems(itemsOriginal);
-    });
+    }, [itemsOriginal]);
 
 
     const sorting = (num) => {
         var temp = [];
-        temp = newItems.sort(function (a, b) {
+        temp = itemsOriginal.sort(function (a, b) {
             if (a["date"] < b["date"]) { return -num; }
             if (a["date"] > b["date"]) { return num; }
             return 0;

@@ -10,7 +10,7 @@ export default function Home() {
     const [itemName, setItemName] = React.useState("");
     const [onlineStore, setOnlineStore] = React.useState("amazon");
     const [price, setPrice] = React.useState(0);
-    const [date, setDate] = React.useState(null);
+    const [date, setDate] = React.useState(new Date());
 
 
     const addItem = () => {

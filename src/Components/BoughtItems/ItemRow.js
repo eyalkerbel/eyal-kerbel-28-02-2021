@@ -1,5 +1,5 @@
 import React from "react";
-import { useEffect, useContext } from "react";
+import { useContext } from "react";
 import { Button } from "react-bootstrap";
 import { receivedItem } from "../../Actions/itemsList";
 import { useDispatch } from "react-redux";
